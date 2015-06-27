@@ -14,7 +14,7 @@
  * Initialize Skeleton Module
  *
  * @filesource
- * @link http://dev.negocad.mx/docs/negocore/module/init
+ * @link http://dev.negocad.mx/docs/negocore/module/create#initphp
  */
 
 /*

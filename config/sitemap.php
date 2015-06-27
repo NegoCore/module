@@ -14,5 +14,13 @@
  * Navigation config for Module sitemap
  *
  * @filesource
- * @link http://dev.negocad.mx/docs/negocore/module/navigation
+ * @link http://dev.negocad.mx/docs/negocore/navigation
  */
+return array(
+    array(
+        'name' => 'ModuleName',
+        'url' => URL::backend('module'), // Menu link
+        'priority' => 100, // Left priority
+        'icon' => 'globe', // Font-Awesome icon
+    )
+);

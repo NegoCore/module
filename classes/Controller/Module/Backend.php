@@ -11,10 +11,10 @@
 // --------------------------------------------------------------------------------
 
 /**
- * Class {ModuleName}_Controller_Frontend
+ * Class Controller_{ModuleName}_Backend
  *
- * Defines extra operations for Frontend.
+ * Defines extra operations for Backend.
  *
  * @link http://dev.negocad.mx/docs/negocore/module/backfront
  */
-//class {ModuleName}_Controller_Frontend extends Controller_Frontend {}
+//class Controller_{ModuleName}_Backend extends Controller_Backend {}
